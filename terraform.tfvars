@@ -1,3 +1,3 @@
-domain_name = "YOUR-DOMAIN-NAME"
-aws_region = "us-east-1"
-route_zone_id = "YOUR-ZONE-ID"
+domain_name = "s3.enverguner.com"
+aws_region = "us-west-w"
+route_zone_id = "ZVFBE5NWUNXEY"
