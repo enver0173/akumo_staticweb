@@ -2,6 +2,7 @@
 ### Prerequisites:
 ##### * You need terraform version 12
 ##### * If you are running the code in your AWS EC2 make sure it has ADMIN privileges.
+##### * You need domain name.
 ### Run the following commands:
 #####  * Clone the repo
 ```
